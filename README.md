@@ -1,16 +1,29 @@
-# workflow frontend
+# Raffle
 
-## workflow frontend
+> just pick a ramdon number
 
-### workflow frontend
+##Usage
 
-#### workflow frontend
+- Clone the repo
 
-> descrição da lib
+`$ git clone https://github.com/tapmorales/raffle.git`
+
+- Install dependencies
+
+`$ npm install`
+
+- Import the lib and write
+
+```
+const picked = raffle(min, max);
+
+```
+
+this function will return a number greather than or equal min parameter and greater than or equal max parameter
 
 # Author
 
-Daniel
+Daniel Tapias Morales
 
 # License
 
