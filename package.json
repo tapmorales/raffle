@@ -1,0 +1,38 @@
+{
+  "name": "raffle",
+  "version": "1.0.0",
+  "description": "just for raffle a number",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "lint": "eslint src/**/*.js",
+    "lint:fix": "eslint src/**/*.js --fix",
+    "test": "jest --color",
+    "coverage": "jest --color --coverage"
+  },
+  "keywords": [
+    "raffle",
+    "javascript"
+  ],
+  "author": "Daniel Tapias Morales <tapmorales@gmail.com>",
+  "homepage": "https://github.com/tapmorales/raffle/#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapmorales/raffle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tapmorales/raffle/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "5.12.1",
+    "eslint-config-prettier": "4.0.0",
+    "eslint-plugin-prettier": "3.0.1",
+    "jest": "24.0.0",
+    "nodemon": "1.18.9",
+    "prettier": "1.16.1"
+  }
+}
