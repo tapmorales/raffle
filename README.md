@@ -2,7 +2,7 @@
 
 > just pick a ramdon number
 
-##Usage
+## Usage
 
 - Clone the repo
 
