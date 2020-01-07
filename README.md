@@ -1,3 +1,5 @@
+![](https://github.com/tapmorales/raffle/workflows/.github/workflows/nodejs.yml/badge.svg)
+
 # Raffle
 
 > just pick a ramdon number
